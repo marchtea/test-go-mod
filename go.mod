@@ -1,1 +1,1 @@
-module github.com/marchtea/test-go-mod
+module github.com/marchtea/test-go-mod/v2
