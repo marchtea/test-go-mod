@@ -1,1 +1,1 @@
-module git.code.oa.com/summerruan/test-go-mod
+module github.com/marchtea/test-go-mod
